@@ -23,9 +23,9 @@ Currently developing projects in Python, Go, and C++, exploring Machine Learning
 ## 🔭 Focus & Interests
 
 - AI & MLOps
-- Machine Learning Engineering
 - Natural Language Processing & LLMs
-- Cloud Applications
+- Machine Learning
+- Cloud & AWS
 - High-Performance Computing
 - Algorithms & Optimization (ICPC)
 - Systems Programming
